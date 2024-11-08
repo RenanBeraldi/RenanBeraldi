@@ -1,4 +1,4 @@
-# Hello World! I'm Renan Beraldi 😃
+# Hello World! I'm Renan Beraldi Castiglioni 😃
 
 <br>
 
@@ -8,7 +8,7 @@
 
 ![Renan Beraldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanBeraldi&show_icons=true&theme=monokai)
 
-### Technologies that I use daily
+### Technologies that I most use daily
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBeraldi&layout=donut)
 
 #### Passionate about technology, always on the path of constant knowledge evolution.
