@@ -4,14 +4,13 @@
 
 ### Passionate about technology, always on the path of constant knowledge evolution.
 
-Software Engineer passionate about Java, software architecture, and building softwares that make difference. Always exploring new technologies and better ways to solve complex problems.
- 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-beraldi-castiglioni-437238236/) 
+Software Engineer passionate about Java, software architecture, and building
+softwares that make difference. Always exploring new technologies and better
+ways to solve complex problems.
 
-<br>
-<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-beraldi-castiglioni-437238236/)
 
-## Used technologies by me. 
+## Technologies used by me.
 
 <img
   align="left"
@@ -38,7 +37,7 @@ Software Engineer passionate about Java, software architecture, and building sof
   width="40px"
   style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>      
+/>
 
 <img 
   align="left"
@@ -65,7 +64,7 @@ Software Engineer passionate about Java, software architecture, and building sof
   width="40px"
   style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
-/> 
+/>
 
 <img   
   align="left"
@@ -85,4 +84,24 @@ Software Engineer passionate about Java, software architecture, and building sof
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
-                    
+<br>
+<br>
+<br>
+
+## Statistics. 📊
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=RenanBeraldi&show_icons=true&theme=dark&include_all_commits=true"
+/>
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBeraldi&theme=dark&layout=compact&custom_title=Technologies&langs_count=9"
+/>
