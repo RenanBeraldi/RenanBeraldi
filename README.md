@@ -1,5 +1,4 @@
 # Hello! Renan here. 👋
-<br>
 
 **`Lead Software Engineer`**
 
