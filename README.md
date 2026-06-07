@@ -13,7 +13,7 @@ Software Engineer passionate about Java, software architecture, and building sof
   align="left"
   alt="JAVA"
   title="JAVA"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
