@@ -1,4 +1,6 @@
-# Hello!
+# Hello! Renan here. 👋
+<br>
+**`Lead Software Engineer`**
 ### Passionate about technology, always on the path of constant knowledge evolution. 👨‍💻
 <br>
 
