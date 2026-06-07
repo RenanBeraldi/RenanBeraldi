@@ -17,4 +17,61 @@ Software Engineer passionate about Java, software architecture, and building sof
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-          
+<img
+  align="left"
+  alt="SPRING"
+  title="SPRING"
+  width="40px"
+  style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+ />
+<img 
+  align="left"
+  alt="POSTGRES"
+  title="POSTGRES"
+  width="40px"
+  style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>          
+<img 
+  align="left"
+  alt="AWS"
+  title="AWS"
+  width="40px"
+  style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+<img 
+  align="left"
+  alt="DOCKER"
+  title="DOCKER"
+  width="40px"
+  style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+  align="left"
+  alt="KUBERNETES"
+  title="KUBERNETES"
+  width="40px"
+  style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
+/>      
+<img   
+  align="left"
+  alt="GIT"
+  title="GIT"
+  width="40px"
+  style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img
+  align="left"
+  alt="LINUX"
+  title="LINUX"
+  width="40px"
+  style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+                    
